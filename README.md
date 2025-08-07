@@ -8,3 +8,4 @@
 
 
 2. [Practical 2](/2/)   
+    - [Local](/2/main.ipynb)
